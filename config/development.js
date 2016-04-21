@@ -7,7 +7,7 @@ module.exports = {
 		,"password" : "password"
 		,"database" : "mvc_sample"
 	}
-	
+
 	,"redis" : {
 		"host" : "localhost"
 		,"port" : "6379"
