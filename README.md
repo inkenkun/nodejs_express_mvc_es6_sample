@@ -1,10 +1,12 @@
 # NodeJS Express4 MySQL MVC ES6 Sample
 
-nodejsのフレームワークexpressのMVCサンプルです
+nodejsのフレームワークexpressのMVCサンプルです。
 
 なるべくES6で書いてます。
 
 MySQLとSessionストレージにRedisを使っています。
+
+REST APIなので、M(V)Cな感じ。
 
 ## Start
 
